@@ -1,11 +1,6 @@
 <h3 align="center">👋 Hello! I'm Mpho.</h3>
 
-<p>Click on the play button to here the pronunciation:</p>
-
-<audio controls>
-  <source src="resources/mpho.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+[Click on the play button to here the pronunciation:](https://raw.githubusercontent.com/mmphego/mmphego/master/resources/mpho.mp3)
 
 <p align="center">
   <a href="https://blog.mphomphego.co.za/">Blog</a> •
