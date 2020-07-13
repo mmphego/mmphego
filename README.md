@@ -8,9 +8,10 @@
 </p>
 
 <p  align="center">
-  <a href="https://raw.githubusercontent.com/mmphego/mmphego/master/resources/mpho.mp3">Mpho Pronounciation</a></br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mmphego.mmphego" alt="visitor badge"/>
+  <a href="https://raw.githubusercontent.com/mmphego/mmphego/master/resources/mpho.mp3">How to pronunce my name!</a></br>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=mmphego.mmphego" alt="visitor badge"/> </br>
+  <img src="https://github-readme-stats.vercel.app/api/?username=mmphego&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="github stats"/> </br>
 </p>
-             
+
 ---
 Inspired by [@cyrisxd](https://github.com/cyrisxd)
