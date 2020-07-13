@@ -10,7 +10,7 @@
 <p  align="center">
   <a href="https://raw.githubusercontent.com/mmphego/mmphego/master/resources/mpho.mp3">How to pronunce my name!</a></br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=mmphego.mmphego" alt="visitor badge"/> </br>
-  <img src="https://github-readme-stats.vercel.app/api/?username=mmphego&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=000000" alt="github stats"/> </br>
+  <img src="https://github-readme-stats.vercel.app/api/?username=mmphego&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/> </br>
 </p>
 
 ---
