@@ -10,6 +10,12 @@
 
 ---
 
+# Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 <p  align="center">
 <a href= "https://blog.mphomphego.co.za/"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
 <a href= "https://www.linkedin.com/in/mphomphego/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
