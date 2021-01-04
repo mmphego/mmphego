@@ -12,11 +12,11 @@
 
 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [How I Became A Udacity Mentor](https://blog.mphomphego.co.za/blog/2021/01/03/How-I-became-a-Udacity-Mentor.html)
 - [2020 In Retrospective](https://blog.mphomphego.co.za/blog/2020/12/30/2020-In-Retrospective.html)
 - [Personal Notes From Deeplearning.ai Specialization Course](https://blog.mphomphego.co.za/blog/2020/11/24/Personal-notes-from-deeplearning.ai-course.html)
 - [I Completed My #100daysofcode Challenge, Now What!](https://blog.mphomphego.co.za/blog/2020/10/17/I-completed-my-100daysofcode-challenge-now-what.html)
 - [TensorFlow Tutorial Using Fashion MNIST (A Beginners Guide)](https://blog.mphomphego.co.za/blog/2020/10/09/tensorflow-tutorial-using-fashion-MNIST.html)
-- [Create A Face Detection Application With Less Than 10 Lines Of Code](https://blog.mphomphego.co.za/blog/2020/09/17/Create-Face-Detection-application-with-less-than-10-lines-of-code.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
