@@ -9,11 +9,11 @@
 
 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [How I Transitioned To Software Engineering From Electrical Engineering](https://blog.mphomphego.co.za/blog/2021/09/03/How-I-transitioned-to-Software-Engineering-from-Electrical-Engineering.html)
 - [How To Configure Jaeger Data Source On Grafana And Debug Network Issues With Bind-utilities](https://blog.mphomphego.co.za/blog/2021/07/25/How-to-configure-Jaeger-Data-source-on-Grafana-and-debug-network-issues-with-Bind-utilities.html)
 - [Note To Self: How To Fix `CreateContainerError` On All Pods](https://blog.mphomphego.co.za/blog/2021/07/12/Note-To-Self-How-to-fix-CreateContainerError-on-all-pods.html)
 - [How I Setup A Private Local PyPI Server Using Docker And Ansible. [Continues]](https://blog.mphomphego.co.za/blog/2021/06/16/How-I-setup-a-private-PyPI-server-using-Docker-and-Ansible-Continues.html)
 - [How I Setup A Private Local PyPI Server Using Docker And Ansible](https://blog.mphomphego.co.za/blog/2021/06/15/How-I-setup-a-private-PyPI-server-using-Docker-and-Ansible.html)
-- [Note To Self: How To Stop A Running Pod On Kubernetes](https://blog.mphomphego.co.za/blog/2021/05/18/Note-To-Self-How-to-stop-a-running-pod-on-kubernetes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
