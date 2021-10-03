@@ -29,4 +29,5 @@
 <a href= "https://www.youtube.com/c/MphoMphego1"><img src="https://img.icons8.com/material-outlined/30/000000/youtube.png"/></a>
 <a href= "https://dev.to/mmphego"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
 <a href= "https://twitter.com/mphomphego"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://tiktok.com/@mmphego"><img src="https://img.icons8.com/material-outlined/30/000000/tiktok.png"/></a>
 </p>
