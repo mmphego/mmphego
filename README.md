@@ -9,6 +9,8 @@
 
 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [Note To Self: How To Delete AWS SageMaker's Endpoint With MonitoringSchedule](https://blog.mphomphego.co.za/blog/2021/10/29/Note-To-Self-How-to-delete-AWS-SageMakers-Endpoint-with-MonitoringSchedule.html)
+- [FAQ: Cloud Native Application Architecture Udacity Nanodegree](https://blog.mphomphego.co.za/blog/2021/10/12/FAQ-Cloud-Native-Application-Architecture-Udacity-Nanodegree.html)
 - [How To Configure Distributed Tracing With Jaeger On Kubernetes Cluster](https://blog.mphomphego.co.za/blog/2021/09/26/How-to-configure-distributed-tracing-with-Jaeger-on-kubernetes-cluster.html)
 - [Note To Self: How To Fix A VirtualBox Machine With The Name 'dashboard' Already Exists.](https://blog.mphomphego.co.za/blog/2021/09/24/Note-To-Self-How-to-fix-a-VirtualBox-machine-with-the-name-dashboard-already-exists.html)
 - [How I Transitioned To Software Engineering From Electrical Engineering](https://blog.mphomphego.co.za/blog/2021/09/03/How-I-transitioned-to-Software-Engineering-from-Electrical-Engineering.html)
@@ -17,8 +19,6 @@
 - [How I Setup A Private Local PyPI Server Using Docker And Ansible. [Continues]](https://blog.mphomphego.co.za/blog/2021/06/16/How-I-setup-a-private-PyPI-server-using-Docker-and-Ansible-Continues.html)
 - [How I Setup A Private Local PyPI Server Using Docker And Ansible](https://blog.mphomphego.co.za/blog/2021/06/15/How-I-setup-a-private-PyPI-server-using-Docker-and-Ansible.html)
 - [Note To Self: How To Stop A Running Pod On Kubernetes](https://blog.mphomphego.co.za/blog/2021/05/18/Note-To-Self-How-to-stop-a-running-pod-on-kubernetes.html)
-- [Note To Self: Error Loading Config File /etc/rancher/k3s/k3s.yaml](https://blog.mphomphego.co.za/blog/2021/04/19/note-to-self-error-loading-config-file-k3s.yaml.html)
-- [How And Why, I Moved From Docker Hub To GitHub Docker Registry.](https://blog.mphomphego.co.za/blog/2021/04/15/How-and-Why-I-moved-from-Docker-Hub-to-GitHub-Docker-registry.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
