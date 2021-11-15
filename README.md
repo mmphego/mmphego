@@ -9,10 +9,10 @@
 
 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
-- [Note To Self: How To Delete AWS SageMaker's Endpoint With MonitoringSchedule](https://blog.mphomphego.co.za/blog/2021/10/29/Note-To-Self-How-to-delete-AWS-SageMakers-Endpoint-with-MonitoringSchedule.html)
+- [Note To Self: How To Delete AWS SageMaker&#39;s Endpoint With MonitoringSchedule](https://blog.mphomphego.co.za/blog/2021/10/29/Note-To-Self-How-to-delete-AWS-SageMakers-Endpoint-with-MonitoringSchedule.html)
 - [FAQ: Cloud Native Application Architecture Udacity Nanodegree](https://blog.mphomphego.co.za/blog/2021/10/12/FAQ-Cloud-Native-Application-Architecture-Udacity-Nanodegree.html)
 - [How To Configure Distributed Tracing With Jaeger On Kubernetes Cluster](https://blog.mphomphego.co.za/blog/2021/09/26/How-to-configure-distributed-tracing-with-Jaeger-on-kubernetes-cluster.html)
-- [Note To Self: How To Fix A VirtualBox Machine With The Name 'dashboard' Already Exists.](https://blog.mphomphego.co.za/blog/2021/09/24/Note-To-Self-How-to-fix-a-VirtualBox-machine-with-the-name-dashboard-already-exists.html)
+- [Note To Self: How To Fix A VirtualBox Machine With The Name &#39;dashboard&#39; Already Exists.](https://blog.mphomphego.co.za/blog/2021/09/24/Note-To-Self-How-to-fix-a-VirtualBox-machine-with-the-name-dashboard-already-exists.html)
 - [How I Transitioned To Software Engineering From Electrical Engineering](https://blog.mphomphego.co.za/blog/2021/09/03/How-I-transitioned-to-Software-Engineering-from-Electrical-Engineering.html)
 - [How To Configure Jaeger Data Source On Grafana And Debug Network Issues With Bind-utilities](https://blog.mphomphego.co.za/blog/2021/07/25/How-to-configure-Jaeger-Data-source-on-Grafana-and-debug-network-issues-with-Bind-utilities.html)
 - [Note To Self: How To Fix `CreateContainerError` On All Pods](https://blog.mphomphego.co.za/blog/2021/07/12/Note-To-Self-How-to-fix-CreateContainerError-on-all-pods.html)
