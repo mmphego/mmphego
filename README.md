@@ -9,6 +9,7 @@
 
 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [2021 In Retrospective.](https://blog.mphomphego.co.za/blog/2021/12/31/2021-In-Retrospective.html)
 - [Note To Self: How To Delete AWS SageMaker&#39;s Endpoint With MonitoringSchedule](https://blog.mphomphego.co.za/blog/2021/10/29/Note-To-Self-How-to-delete-AWS-SageMakers-Endpoint-with-MonitoringSchedule.html)
 - [FAQ: Cloud Native Application Architecture Udacity Nanodegree](https://blog.mphomphego.co.za/blog/2021/10/12/FAQ-Cloud-Native-Application-Architecture-Udacity-Nanodegree.html)
 - [How To Configure Distributed Tracing With Jaeger On Kubernetes Cluster](https://blog.mphomphego.co.za/blog/2021/09/26/How-to-configure-distributed-tracing-with-Jaeger-on-kubernetes-cluster.html)
@@ -18,7 +19,6 @@
 - [Note To Self: How To Fix `CreateContainerError` On All Pods](https://blog.mphomphego.co.za/blog/2021/07/12/Note-To-Self-How-to-fix-CreateContainerError-on-all-pods.html)
 - [How I Setup A Private Local PyPI Server Using Docker And Ansible. [Continues]](https://blog.mphomphego.co.za/blog/2021/06/16/How-I-setup-a-private-PyPI-server-using-Docker-and-Ansible-Continues.html)
 - [How I Setup A Private Local PyPI Server Using Docker And Ansible](https://blog.mphomphego.co.za/blog/2021/06/15/How-I-setup-a-private-PyPI-server-using-Docker-and-Ansible.html)
-- [Note To Self: How To Stop A Running Pod On Kubernetes](https://blog.mphomphego.co.za/blog/2021/05/18/Note-To-Self-How-to-stop-a-running-pod-on-kubernetes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
