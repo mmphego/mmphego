@@ -4,7 +4,7 @@
 
 ## I little bit about me
 
-🎓 &nbsp;I'm currently studying towards an [AWS Machine Learning Engineer Nanodegree](https://imp.i115008.net/VyRr4M) with [Udacity](https://imp.i115008.net/BXeWKW)
+🎓 &nbsp;I'm currently studying towards an [AWS Machine Learning Engineer Nanodegree](https://imp.i115008.net/VyRr4M) with [Udacity](https://imp.i115008.net/BXeWKW) \
 🌱 &nbsp;I'm on track with learning more about MLOps, DevOps and Software Architecture.\
 ✍️ &nbsp;In my free time, I enjoy hiking, open-sea swimming and spending time with family.\
 💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/mmphego/30min) to talk with me.\
