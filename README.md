@@ -25,6 +25,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lunch &#39;n Learn: Docker And Docker Compose &lpar;Noobs&rpar;](https://blog.mphomphego.co.za/blog/2022/02/14/Lunch-n-Learn-Docker-and-Docker-compose-Noobs.html)
 - [How To Build An ETL Using Python, Docker, PostgreSQL And Airflow](https://blog.mphomphego.co.za/blog/2022/01/09/How-to-build-an-ETL-using-Python-Docker-PostgreSQL-and-Airflow.html)
 - [2021 In Retrospective.](https://blog.mphomphego.co.za/blog/2021/12/31/2021-In-Retrospective.html)
 - [Note To Self: How To Delete AWS SageMaker&#39;s Endpoint With MonitoringSchedule](https://blog.mphomphego.co.za/blog/2021/10/29/Note-To-Self-How-to-delete-AWS-SageMakers-Endpoint-with-MonitoringSchedule.html)
@@ -34,7 +35,6 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 - [How I Transitioned To Software Engineering From Electrical Engineering](https://blog.mphomphego.co.za/blog/2021/09/03/How-I-transitioned-to-Software-Engineering-from-Electrical-Engineering.html)
 - [How To Configure Jaeger Data Source On Grafana And Debug Network Issues With Bind-utilities](https://blog.mphomphego.co.za/blog/2021/07/25/How-to-configure-Jaeger-Data-source-on-Grafana-and-debug-network-issues-with-Bind-utilities.html)
 - [Note To Self: How To Fix `CreateContainerError` On All Pods](https://blog.mphomphego.co.za/blog/2021/07/12/Note-To-Self-How-to-fix-CreateContainerError-on-all-pods.html)
-- [How I Setup A Private Local PyPI Server Using Docker And Ansible. [Continues]](https://blog.mphomphego.co.za/blog/2021/06/16/How-I-setup-a-private-PyPI-server-using-Docker-and-Ansible-Continues.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
