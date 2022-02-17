@@ -9,7 +9,7 @@
 ✍️ &nbsp;In my free time, I enjoy hiking, open-sea swimming and spending time with family.\
 💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/mmphego/30min) to talk with me.\
 ✉️ &nbsp;You can drop me an email at mpho@mphomphego.co.za with subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
-📄 &nbsp;Check my [now page](https://bit.ly/3BnFyAC) to get to know me a little better.
+📄 &nbsp;Check my [now page](https://bit.ly/3Jxtwaw) to get to know me a little better.
 
 ---
 
