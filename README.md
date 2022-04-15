@@ -29,6 +29,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Uninstalled YouTube From Android TV](https://blog.mphomphego.co.za/blog/2022/04/11/How-I-uninstalled-YouTube-from-Android-TV.html)
 - [Note To Self: How To Get A Complete Plugin List From Jenkins](https://blog.mphomphego.co.za/blog/2022/03/08/Note-to-self-How-to-get-a-complete-plugin-list-from-Jenkins.html)
 - [Lunch And Learn - Security Hardening For Your Docker Environment](https://blog.mphomphego.co.za/blog/2022/02/23/Lunch-and-Learn-Security-Hardening-for-your-Docker-Environment.html)
 - [I Signed Up For A Udacity&#39;s Digital Marketing Nano Degree, Here&#39;s Why!](https://blog.mphomphego.co.za/blog/2022/02/17/I-signed-up-for-a-Udacitys-Digital-Marketing-Nano-Degree-heres-why.html)
@@ -38,7 +39,6 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 - [Note To Self: How To Delete AWS SageMaker&#39;s Endpoint With MonitoringSchedule](https://blog.mphomphego.co.za/blog/2021/10/29/Note-To-Self-How-to-delete-AWS-SageMakers-Endpoint-with-MonitoringSchedule.html)
 - [FAQ: Cloud Native Application Architecture Udacity Nanodegree](https://blog.mphomphego.co.za/blog/2021/10/12/FAQ-Cloud-Native-Application-Architecture-Udacity-Nanodegree.html)
 - [How To Configure Distributed Tracing With Jaeger On Kubernetes Cluster](https://blog.mphomphego.co.za/blog/2021/09/26/How-to-configure-distributed-tracing-with-Jaeger-on-kubernetes-cluster.html)
-- [Note To Self: How To Fix A VirtualBox Machine With The Name &#39;dashboard&#39; Already Exists.](https://blog.mphomphego.co.za/blog/2021/09/24/Note-To-Self-How-to-fix-a-VirtualBox-machine-with-the-name-dashboard-already-exists.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
