@@ -5,7 +5,6 @@
 
 🎓 &nbsp;I'm currently juggling these [Udacity](https://imp.i115008.net/BXeWKW) courses and intend to complete them soon:
 
-- [Digital Marketing Nanodegree](https://imp.i115008.net/do3X5K) [Completed]
 - [AWS Machine Learning Engineer Nanodegree](https://imp.i115008.net/VyRr4M)
 - [Cloud Architect using Microsoft Azure](https://imp.i115008.net/7mLA1y)
 
