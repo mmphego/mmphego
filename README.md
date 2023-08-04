@@ -24,6 +24,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Efficiently Extract Tables From MSSQL Server To A Data Lake](https://blog.mphomphego.co.za/blog/2023/08/02/How-to-Efficiently-Extract-Tables-from-MSSQL-Server-to-a-Data-Lake.html)
 - [Managing Jenkins Plugins](https://blog.mphomphego.co.za/blog/2022/06/24/Managing-Jenkins-Plugins.html)
 - [How I Setup Jenkins On Docker Container Using Ansible &lpar;Part 1&rpar;](https://blog.mphomphego.co.za/blog/2022/05/09/How-I-setup-Jenkins-on-Docker-container-using-Ansible-Part-1.html)
 - [How I Setup Jenkins On Docker Container Using Ansible &lpar;Part 2&rpar;](https://blog.mphomphego.co.za/blog/2022/05/09/How-I-setup-Jenkins-on-Docker-container-using-Ansible-Part-2.html)
@@ -33,7 +34,6 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 - [Lunch And Learn - Security Hardening For Your Docker Environment](https://blog.mphomphego.co.za/blog/2022/02/23/Lunch-and-Learn-Security-Hardening-for-your-Docker-Environment.html)
 - [I Signed Up For A Udacity&#39;s Digital Marketing Nano Degree, Here&#39;s Why!](https://blog.mphomphego.co.za/blog/2022/02/17/I-signed-up-for-a-Udacitys-Digital-Marketing-Nano-Degree-heres-why.html)
 - [Lunch &#39;n Learn: Docker And Docker Compose &lpar;Noobs&rpar;](https://blog.mphomphego.co.za/blog/2022/02/14/Lunch-n-Learn-Docker-and-Docker-compose-Noobs.html)
-- [How To Build An ETL Using Python, Docker, PostgreSQL And Airflow](https://blog.mphomphego.co.za/blog/2022/01/09/How-to-build-an-ETL-using-Python-Docker-PostgreSQL-and-Airflow.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
