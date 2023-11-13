@@ -24,6 +24,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Verify Data Quality On Tables Landed On AWS Data Lake And Data Warehouse](https://blog.mphomphego.co.za/blog/2023/11/11/How-to-Verify-Data-Quality-on-Tables-Landed-on-AWS-Data-Lake-and-Data-Warehouse.html)
 - [How To Efficiently Extract Tables From MSSQL Server To A Data Lake](https://blog.mphomphego.co.za/blog/2023/08/02/How-to-Efficiently-Extract-Tables-from-MSSQL-Server-to-a-Data-Lake.html)
 - [Managing Jenkins Plugins](https://blog.mphomphego.co.za/blog/2022/06/24/Managing-Jenkins-Plugins.html)
 - [How I Setup Jenkins On Docker Container Using Ansible &lpar;Part 1&rpar;](https://blog.mphomphego.co.za/blog/2022/05/09/How-I-setup-Jenkins-on-Docker-container-using-Ansible-Part-1.html)
@@ -33,7 +34,6 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 - [Note To Self: How To Get A Complete Plugin List From Jenkins](https://blog.mphomphego.co.za/blog/2022/03/08/Note-to-self-How-to-get-a-complete-plugin-list-from-Jenkins.html)
 - [Lunch And Learn - Security Hardening For Your Docker Environment](https://blog.mphomphego.co.za/blog/2022/02/23/Lunch-and-Learn-Security-Hardening-for-your-Docker-Environment.html)
 - [I Signed Up For A Udacity&#39;s Digital Marketing Nano Degree, Here&#39;s Why!](https://blog.mphomphego.co.za/blog/2022/02/17/I-signed-up-for-a-Udacitys-Digital-Marketing-Nano-Degree-heres-why.html)
-- [Lunch &#39;n Learn: Docker And Docker Compose &lpar;Noobs&rpar;](https://blog.mphomphego.co.za/blog/2022/02/14/Lunch-n-Learn-Docker-and-Docker-compose-Noobs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
