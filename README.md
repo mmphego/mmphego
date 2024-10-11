@@ -24,6 +24,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Enforce SQL Code Quality Using SQLFluff, Pre-Commit And GitHub Actions](https://blog.mphomphego.co.za/blog/2024/10/11/How-to-Enforce-SQL-Code-Quality-using-SQLFluff-Pre-Commit-and-GitHub-Actions.html)
 - [How An EC2 Instance Became My Go-To Remote Development Solution Using Terraform](https://blog.mphomphego.co.za/blog/2024/08/18/How-An-EC2-Instance-Became-My-Go-To-Remote-Development-Solution.html)
 - [How To Automate Jira And Confluence Using Python](https://blog.mphomphego.co.za/blog/2024/05/22/How-to-automate-Jira-and-Confluence-using-Python.html)
 - [How To Connect To AWS Athena Using DBeaver Community Edition Via AWS SSO](https://blog.mphomphego.co.za/blog/2023/12/27/How-to-connect-to-AWS-Athena-using-DBeaver-Community-Edition-via-AWS-SSO.html)
@@ -33,7 +34,6 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 - [How I Setup Jenkins On Docker Container Using Ansible &lpar;Part 1&rpar;](https://blog.mphomphego.co.za/blog/2022/05/09/How-I-setup-Jenkins-on-Docker-container-using-Ansible-Part-1.html)
 - [How I Setup Jenkins On Docker Container Using Ansible &lpar;Part 2&rpar;](https://blog.mphomphego.co.za/blog/2022/05/09/How-I-setup-Jenkins-on-Docker-container-using-Ansible-Part-2.html)
 - [How I Uninstalled YouTube From Android TV](https://blog.mphomphego.co.za/blog/2022/04/11/How-I-uninstalled-YouTube-from-Android-TV.html)
-- [How I Setup Jenkins On Docker Container Using Ansible &lpar;Part 3&rpar;](https://blog.mphomphego.co.za/blog/2022/03/21/How-I-setup-Jenkins-on-Docker-container-using-Ansible-Part-3.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
