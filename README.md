@@ -24,6 +24,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Mpho Mphego Might Be The World’s Worst AI Software And Data Engineer](https://blog.mphomphego.co.za/blog/2026/02/04/Why-Mpho-Mphego-Might-Be-the-World-s-Worst-AI-Software-and-Data-Engineer.html)
 - [How I Simplified LLM Telemetry Using Dual-Destination Observability Without Performance Degradation](https://blog.mphomphego.co.za/blog/2025/12/08/How-I-Simplified-LLM-Telemetry-Using-Dual-Destination-Observability-Without-Performance-Degradation.html)
 - [How To Enforce SQL Code Quality Using SQLFluff, Pre-Commit And GitHub Actions](https://blog.mphomphego.co.za/blog/2024/10/11/How-to-Enforce-SQL-Code-Quality-using-SQLFluff-Pre-Commit-and-GitHub-Actions.html)
 - [How An EC2 Instance Became My Go-To Remote Development Solution Using Terraform](https://blog.mphomphego.co.za/blog/2024/08/18/How-An-EC2-Instance-Became-My-Go-To-Remote-Development-Solution.html)
@@ -33,7 +34,6 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 - [How To Efficiently Extract Tables From MSSQL Server To A Data Lake](https://blog.mphomphego.co.za/blog/2023/08/02/How-to-Efficiently-Extract-Tables-from-MSSQL-Server-to-a-Data-Lake.html)
 - [Managing Jenkins Plugins](https://blog.mphomphego.co.za/blog/2022/06/24/Managing-Jenkins-Plugins.html)
 - [How I Setup Jenkins On Docker Container Using Ansible &lpar;Part 1&rpar;](https://blog.mphomphego.co.za/blog/2022/05/09/How-I-setup-Jenkins-on-Docker-container-using-Ansible-Part-1.html)
-- [How I Setup Jenkins On Docker Container Using Ansible &lpar;Part 2&rpar;](https://blog.mphomphego.co.za/blog/2022/05/09/How-I-setup-Jenkins-on-Docker-container-using-Ansible-Part-2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
