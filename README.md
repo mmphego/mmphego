@@ -24,6 +24,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Built 20+ Custom AI Coding Skills to Automate My Entire Engineering Workflow](https://blog.mphomphego.co.za/blog/2026/02/28/How-I-Built-20+-Custom-AI-Coding-Skills-to-Automate-My-Entire-Engineering-Workflow.html)
 - [Why Mpho Mphego Might Be The World’s Worst AI Software And Data Engineer](https://blog.mphomphego.co.za/blog/2026/02/04/Why-Mpho-Mphego-Might-Be-the-World-s-Worst-AI-Software-and-Data-Engineer.html)
 - [How I Simplified LLM Telemetry Using Dual-Destination Observability Without Performance Degradation](https://blog.mphomphego.co.za/blog/2025/12/08/How-I-Simplified-LLM-Telemetry-Using-Dual-Destination-Observability-Without-Performance-Degradation.html)
 - [How To Enforce SQL Code Quality Using SQLFluff, Pre-Commit And GitHub Actions](https://blog.mphomphego.co.za/blog/2024/10/11/How-to-Enforce-SQL-Code-Quality-using-SQLFluff-Pre-Commit-and-GitHub-Actions.html)
@@ -33,7 +34,6 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 - [How To Verify Data Quality On Tables Landed On AWS Data Lake And Data Warehouse](https://blog.mphomphego.co.za/blog/2023/11/11/How-to-Verify-Data-Quality-on-Tables-Landed-on-AWS-Data-Lake-and-Data-Warehouse.html)
 - [How To Efficiently Extract Tables From MSSQL Server To A Data Lake](https://blog.mphomphego.co.za/blog/2023/08/02/How-to-Efficiently-Extract-Tables-from-MSSQL-Server-to-a-Data-Lake.html)
 - [Managing Jenkins Plugins](https://blog.mphomphego.co.za/blog/2022/06/24/Managing-Jenkins-Plugins.html)
-- [How I Setup Jenkins On Docker Container Using Ansible &lpar;Part 1&rpar;](https://blog.mphomphego.co.za/blog/2022/05/09/How-I-setup-Jenkins-on-Docker-container-using-Ansible-Part-1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
