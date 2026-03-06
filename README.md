@@ -24,6 +24,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Running Google ADK Agents on AWS Bedrock via LiteLLM in Production: A Practical Guide to the Gotchas](https://blog.mphomphego.co.za/blog/2026/03/05/Running-Google-ADK-Agents-on-AWS-Bedrock-via-LiteLLM.html)
 - [How I Built 20+ Custom AI Coding Skills to Automate My Entire Engineering Workflow](https://blog.mphomphego.co.za/blog/2026/02/28/How-I-Built-20+-Custom-AI-Coding-Skills-to-Automate-My-Entire-Engineering-Workflow.html)
 - [Why Mpho Mphego Might Be The World’s Worst AI Software And Data Engineer](https://blog.mphomphego.co.za/blog/2026/02/04/Why-Mpho-Mphego-Might-Be-the-World-s-Worst-AI-Software-and-Data-Engineer.html)
 - [How I Simplified LLM Telemetry Using Dual-Destination Observability Without Performance Degradation](https://blog.mphomphego.co.za/blog/2025/12/08/How-I-Simplified-LLM-Telemetry-Using-Dual-Destination-Observability-Without-Performance-Degradation.html)
@@ -33,7 +34,6 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 - [How To Connect To AWS Athena Using DBeaver Community Edition Via AWS SSO](https://blog.mphomphego.co.za/blog/2023/12/27/How-to-connect-to-AWS-Athena-using-DBeaver-Community-Edition-via-AWS-SSO.html)
 - [How To Verify Data Quality On Tables Landed On AWS Data Lake And Data Warehouse](https://blog.mphomphego.co.za/blog/2023/11/11/How-to-Verify-Data-Quality-on-Tables-Landed-on-AWS-Data-Lake-and-Data-Warehouse.html)
 - [How To Efficiently Extract Tables From MSSQL Server To A Data Lake](https://blog.mphomphego.co.za/blog/2023/08/02/How-to-Efficiently-Extract-Tables-from-MSSQL-Server-to-a-Data-Lake.html)
-- [Managing Jenkins Plugins](https://blog.mphomphego.co.za/blog/2022/06/24/Managing-Jenkins-Plugins.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
