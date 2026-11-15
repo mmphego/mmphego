@@ -24,6 +24,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How a 0.1-Second Tool Call Flooded My AI Agent With 180,000 Tokens: Handling Large Tool Responses at Scale](https://blog.mphomphego.co.za/blog/2026/10/23/a-0-1-second-tool-call-filled-my-agents-context-window.html)
 - [How a Single Query Inside an AI Agent Took Down a Client-Facing App](https://blog.mphomphego.co.za/blog/2026/09/16/how-a-single-query-inside-an-ai-agent-took-down-a-client-facing-app.html)
 - [Harness Engineering in Practice: Building Maestro v2, an Autonomous GitHub Agent Orchestrator using Claude Code](https://blog.mphomphego.co.za/blog/2026/04/18/harness-engineering-building-maestro-v2-an-autonomous-github-agent-orchestrator.html)
 - [Did I Just Accidentally Build a Memory Management System for Claude Code?](https://blog.mphomphego.co.za/blog/2026/03/21/Did-I-Just-Accidentally-Build-a-Memory-Management-System-for-Claude-Code.html)
@@ -33,7 +34,6 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 - [How I Simplified LLM Telemetry Using Dual-Destination Observability Without Performance Degradation](https://blog.mphomphego.co.za/blog/2025/12/08/How-I-Simplified-LLM-Telemetry-Using-Dual-Destination-Observability-Without-Performance-Degradation.html)
 - [How To Enforce SQL Code Quality Using SQLFluff, Pre-Commit And GitHub Actions](https://blog.mphomphego.co.za/blog/2024/10/11/How-to-Enforce-SQL-Code-Quality-using-SQLFluff-Pre-Commit-and-GitHub-Actions.html)
 - [How An EC2 Instance Became My Go-To Remote Development Solution Using Terraform](https://blog.mphomphego.co.za/blog/2024/08/18/How-An-EC2-Instance-Became-My-Go-To-Remote-Development-Solution.html)
-- [How To Automate Jira And Confluence Using Python](https://blog.mphomphego.co.za/blog/2024/05/22/How-to-automate-Jira-and-Confluence-using-Python.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
